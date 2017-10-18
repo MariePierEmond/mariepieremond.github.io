@@ -42,11 +42,22 @@ margin:auto;
 	background-color:#3361FF;
 	color:#FFFFFF;
 }
+.Chatan
+{
+	background-color:#B32427;
+	color:#FFFFFF;
+}
 h1
 {
-margin-left:10px;
-visibility:hidden;
-color:#000000
+    font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin-bottom: 10px;
+	padding:15px;
+	padding-left:20px;
+	margin:auto;
+	color:#fff;
+	margin-top:-10px;
+	max-width:850px;
+min-width:850px;
 }
 
 #bt_linkedin
@@ -214,6 +225,11 @@ min-width:850px;
 	
 }
 
+.Mantra
+{
+	margin-left:-15px;
+	margin-bottom:-25px;
+}
 
 .projetImg
 {
@@ -224,7 +240,7 @@ h3
 {
     font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
 	margin-bottom: 10px;
-	width:110%;
+	width:106%;
 	margin-left:-7%;
 	background-color:#F39;
 	padding:5px;
