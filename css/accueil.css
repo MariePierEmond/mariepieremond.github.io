@@ -1,0 +1,338 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body
+{
+margin:0px;
+margin-top:-22px;
+padding:0;
+background-color:#000000;
+
+}
+
+.liste
+{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+#conteneur
+{
+max-width:850px;
+min-width:850px;
+margin:auto;
+background-color:#ffffff;
+}
+.nomargin
+{
+	margin:0px;
+}
+
+#en_tete
+{
+width:100%;
+height:100px;
+background-color:#000;
+background-repeat:no-repeat;
+margin:auto;
+}
+
+.Kickass
+{
+	background-color:#3361FF;
+	color:#FFFFFF;
+}
+h1
+{
+margin-left:10px;
+visibility:hidden;
+color:#000000
+}
+
+#bt_linkedin
+{
+float:right;
+margin-top:5px;
+margin-right:25px;
+}
+
+#bt_linkedin img
+{
+	margin-top:0px;
+	width:25px;
+}
+
+#contenue
+{
+display:block;
+margin:auto;
+padding:10px;
+margin-bottom:0px;
+width:90%;
+padding-bottom:100px;
+}
+
+#menu
+{
+	margin:auto;
+	margin-top: 5px;
+	list-style-type:none;
+	max-width:850px;
+min-width:850px;
+	height:63px;
+	background-repeat:repeat-x;
+	display:block;
+	padding:0px;
+	padding-bottom:20px;
+}
+
+#menu li
+{
+	display:block;
+	float:left;
+	height:100%;
+	margin-top:25px;
+	padding-right:25px;
+	padding-left:10px;
+}
+
+#menu li a
+{
+	font-size:1.5em;
+	display:block;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	color:#fff;
+	text-decoration:none;
+	text-align:center;
+	height:100%;
+	padding-top:10px;
+}
+
+#menu li a#bt5:link, #menu li a#bt5:visited
+{
+	background-image:url(../images/bt_repeat.png);
+	background-repeat:repeat-x;
+	border-right:dotted 1px #999;
+	color:#ccc;
+}
+
+#menu li a#bt6:link, #menu li a#bt6:visited
+{
+	background-image:url(../images/bt_repeat.png);
+	background-repeat:repeat-x;
+	color:#ccc;
+}
+
+#menu li a#bt1:hover, #menu li a#bt1:active
+{
+	color:#;
+}
+
+#menu li a#bt2:hover, #menu li a#bt2:active
+{
+	color:#FFF;
+}
+
+#menu li a#bt3:hover, #menu li a#bt3:active
+{
+	color:#FFF;
+}
+
+#menu li a#bt4:hover, #menu li a#bt4:active
+{
+	color:#FFF;
+}
+
+#menu li a#bt5:hover, #menu li a#b5:active
+{
+	color:#FFF;
+}
+
+#menu li a#bt6:hover, #menu li a#bt6:active
+{
+	color:#FFF;
+}
+
+#pied_de_page
+{
+background-color:#692691;
+padding:10px;
+display:block;
+width:100%;
+height:20px;
+position:fixed;
+bottom:0px;
+left:0px;
+
+}
+
+#text_pdp
+{
+max-width:850px;
+min-width:850px;
+font-family:Arial, Helvetica, sans-serif;
+font-size:16px;
+color:#fff;
+margin:auto;
+margin-top:-10px;
+}
+
+#gauche
+{
+float:left;
+width: 35%;
+display:block;
+}
+#droite
+{
+float:right;
+width: 35%;
+display:block;
+clear:right;
+}
+
+#title_bar
+{
+	width:100%;
+background-color:#692691;
+margin:auto;
+
+}
+	
+h2
+{
+    font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin-bottom: 10px;
+	padding:5px;
+	padding-left:20px;
+	margin:auto;
+	color:#fff;
+	margin-top:-10px;
+	max-width:850px;
+min-width:850px;
+
+	
+}
+
+
+.projetImg
+{
+	width:32%;
+}
+
+h3
+{
+    font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin-bottom: 10px;
+	width:110%;
+	margin-left:-7%;
+	background-color:#F39;
+	padding:5px;
+}
+
+
+h4
+{
+    font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin-bottom: 10px;
+	text-decoration:underline;
+	padding:5px;
+}
+
+#logoLittlePony
+{
+	width:200px;
+	height:180px;
+	float:left;
+	font-family:Arial, Helvetica, sans-serif;
+	text-align:justify;
+}
+	
+.textright
+{
+	float:right;
+	width:30%;
+	font-family:Arial, Helvetica, sans-serif;
+	text-align:justify;
+}
+.textrightmid
+{
+	float:right;
+	width:45%;
+	font-family:Arial, Helvetica, sans-serif;
+	text-align:justify;
+}
+.textrightLarge
+{
+	float:right;
+	width:65%;
+    font-family:Arial, Helvetica, sans-serif;
+	text-align:justify;
+}
+
+.textleftLarge
+{
+	float:left;
+	width:60%;
+    font-family:Arial, Helvetica, sans-serif;
+	text-align:justify;
+}
+
+.textleft
+{
+	float:left;
+	width:30%;
+	margin-right:25px;
+	font-family:Arial, Helvetica, sans-serif;
+	text-align:justify;
+}
+
+.textleftmid
+{
+	float:left;
+	width:45%;
+	margin-right:25px;
+	font-family:Arial, Helvetica, sans-serif;
+	text-align:justify;
+}
+.imgGauche
+	{
+	float:left;
+}
+
+.imgDroite
+	{
+	float:right;
+	text-align:right;
+}
+.section
+{
+	padding-bottom:25px;
+	display:block;
+	clear:both;
+	height:auto;
+}
+
+.clear
+{
+	clear:both;
+}
+ul#gauche
+{
+clear:left;
+}
+
+.gauche
+{
+	float:left;
+	width:49%;
+	display:block;
+	
+}
+.droite
+{
+	float:right;
+	width:49%;
+	display:block;
+	
+}
