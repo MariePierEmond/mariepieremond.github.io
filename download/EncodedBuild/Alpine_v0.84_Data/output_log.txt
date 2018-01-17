@@ -1,0 +1,41 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 760 (ID=0x1187)
+    Vendor:   NVIDIA
+    VRAM:     2017 MB
+    Driver:   23.21.13.8813
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Mawie\Desktop\SiteMawie\download\EncodedBuild\Alpine_v0.84_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Mawie\Desktop\SiteMawie\download\EncodedBuild\Alpine_v0.84_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Mawie\Desktop\SiteMawie\download\EncodedBuild\Alpine_v0.84_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Mawie\Desktop\SiteMawie\download\EncodedBuild\Alpine_v0.84_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Mawie\Desktop\SiteMawie\download\EncodedBuild\Alpine_v0.84_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Mawie\Desktop\SiteMawie\download\EncodedBuild\Alpine_v0.84_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Mawie\Desktop\SiteMawie\download\EncodedBuild\Alpine_v0.84_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Mawie\Desktop\SiteMawie\download\EncodedBuild\Alpine_v0.84_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Mawie\Desktop\SiteMawie\download\EncodedBuild\Alpine_v0.84_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Mawie\Desktop\SiteMawie\download\EncodedBuild\Alpine_v0.84_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Mawie\Desktop\SiteMawie\download\EncodedBuild\Alpine_v0.84_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Mawie\Desktop\SiteMawie\download\EncodedBuild\Alpine_v0.84_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.059 seconds
+Platform assembly: C:\Users\Mawie\Desktop\SiteMawie\download\EncodedBuild\Alpine_v0.84_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Mawie\Desktop\SiteMawie\download\EncodedBuild\Alpine_v0.84_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3200x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.619595 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1f18 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.258953 ms
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 403)
+
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 28086.
+Total: 8.514548 ms (FindLiveObjects: 2.003077 ms CreateObjectMapping: 0.560070 ms MarkObjects: 4.941358 ms  DeleteObjects: 1.008806 ms)
+
