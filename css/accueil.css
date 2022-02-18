@@ -411,6 +411,14 @@ h4
 	display:block;
 	clear:both;
 	height:auto;
+}
+
+.section-img-projet
+{
+	padding-bottom:25px;
+	display:block;
+	clear:both;
+	height:auto;
 	width:50%;
 }
 
