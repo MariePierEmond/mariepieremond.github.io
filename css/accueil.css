@@ -408,8 +408,8 @@ h4
 
 .section-img-projet
 {
-	margin:auto;
-	padding:auto;
+	margin:0 40px 0 40px;
+	padding:0 0 20px 0;
 	display:block;
 	float:left;
 	height:auto;
