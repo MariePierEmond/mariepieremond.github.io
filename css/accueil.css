@@ -274,7 +274,14 @@ text-align:center;
 
 .projetImg
 {
+<<<<<<< HEAD
 	width:2%;
+=======
+	width:20%;
+	margin:10px;
+	padding:0px 10px 10px 0px;
+	border: 2px solid #000;
+>>>>>>> parent of 88187b4 (Update accueil.css)
 }
 
 .projetImge
