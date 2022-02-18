@@ -408,7 +408,7 @@ h4
 
 .section-img-projet
 {
-	margin-right:20%;
+	margin-right:0 15% 0 2.5%;
 	padding:0 0 20px 0;
 	display:block;
 	float:left;
@@ -418,7 +418,7 @@ h4
 
 .section-img-projet-colonne-droite
 {
-	margin:0;
+	margin:0 2.5% 0 0;
 	padding:0 0 20px 0;
 	display:block;
 	float:left;
