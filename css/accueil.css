@@ -265,12 +265,6 @@ h2
 	margin-bottom:-25px;
 }
 
-.projetImg
-{
-	margin:0px 10px 10px 0;
-	border: 4px solid #FFF;
-}
-
 .projetImge
 {
 	width:95%;
@@ -423,9 +417,17 @@ h4
 
 .section-img-projet h3
 {
+	width:100%;
 	background:none;
 	color:#FFF;
 	text-align:center;
+}
+
+.projetImg
+{
+	width:100px;
+	margin:0px 0px 10px 10px;
+	border: 4px solid #FFF;
 }
 
 .clear
