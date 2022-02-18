@@ -422,6 +422,12 @@ h4
 	width:50%;
 }
 
+.section-img-projet h3
+{
+background:none;
+	text-color:white;
+}
+
 .clear
 {
 	clear:both;
