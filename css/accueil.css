@@ -408,6 +408,7 @@ h4
 
 .section-img-projet
 {
+	margin-right:20px;
 	padding-bottom:25px;
 	display:block;
 	float:left;
@@ -419,7 +420,7 @@ h4
 {
 	margin: 0 0 10px 0;
 	padding:0;
-	width:270px;
+	width:100%;
 	background:none;
 	color:#FFF;
 	text-align:center;
