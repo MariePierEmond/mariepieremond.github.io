@@ -4,11 +4,10 @@
 
 body
 {
-margin:0px;
-margin-top:-22px;
-padding:0;
-background-color:#181818;
-
+	margin:0px;
+	margin-top:-22px;
+	padding:0;
+	background-color:#181818;
 }
 
 .liste
@@ -19,10 +18,10 @@ background-color:#181818;
 
 #conteneur
 {
-max-width:850px;
-min-width:850px;
-margin:auto;
-background-color:#181818;
+	max-width:850px;
+	min-width:850px;
+	margin:auto;
+	background-color:#181818;
 }
 .nomargin
 {
@@ -31,11 +30,11 @@ background-color:#181818;
 
 #en_tete
 {
-width:100%;
-height:100px;
-background-color:#383838;
-background-repeat:no-repeat;
-margin:auto;
+	width:100%;
+	height:100px;
+	background-color:#383838;
+	background-repeat:no-repeat;
+	margin:auto;
 }
 
 .Kickass
@@ -59,7 +58,7 @@ h1
 	color:#f6f6f6;
 	margin-top:-10px;
 	max-width:850px;
-min-width:850px;
+	min-width:850px;
 }
 h5
 {
@@ -90,12 +89,11 @@ margin-right:25px;
 
 #contenue
 {
-display:block;
-margin:auto;
-padding:10px;
-margin-bottom:0px;
-width:90%;
-padding-bottom:100px;
+	display:block;
+	margin:auto;
+	margin-bottom:0px;
+	width:100%;
+	padding-bottom:100px;
 }
 
 #menu
@@ -104,7 +102,7 @@ padding-bottom:100px;
 	margin-top: -15px;
 	list-style-type:none;
 	max-width:1500px;
-min-width:850px;
+	min-width:850px;
 	height:200px;
 	background-repeat:repeat-x;
 	display:block;
@@ -181,46 +179,45 @@ min-width:850px;
 
 #pied_de_page
 {
-background-color:#383838;
-padding:10px;
-display:block;
-width:100%;
-height:20px;
-position:fixed;
-bottom:0px;
-left:0px;
-
+	background-color:#383838;
+	padding:10px;
+	display:block;
+	width:100%;
+	height:20px;
+	position:fixed;
+	bottom:0px;
+	left:0px;
 }
 
 #text_pdp
 {
-max-width:850px;
-min-width:850px;
-font-family:Arial, Helvetica, sans-serif;
-font-size:16px;
-color:#fff;
-margin:auto;
-margin-top:-10px;
+	max-width:850px;
+	min-width:850px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;
+	color:#fff;
+	margin:auto;
+	margin-top:-10px;
 }
 
 #gauche
 {
-float:left;
-width: 35%;
-display:block;
+	float:left;
+	width: 35%;
+	display:block;
 }
 #droite
 {
-float:right;
-width: 35%;
-display:block;
-clear:right;
+	float:right;
+	width: 35%;
+	display:block;
+	clear:right;
 }
 #mid
 {
-float:center;
-width: 35%;
-display:block;
+	float:center;
+	width: 35%;
+	display:block;
 
 }
 #gauchep, #droitep, #midp
@@ -248,20 +245,20 @@ margin-left:25%;
 #title_bar
 {
 	width:100%;
-background-color:#49474a;
-margin:auto;
+	background-color:#49474a;
+	margin:auto;
 
 }
 	
 h2
 {
-    font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+    	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
 	margin-bottom: px;
 	margin:auto;
 	color:#f6f6f6;
 	margin-top:-40px;
-min-width:850px;
-text-align:center;
+	min-width:850px;
+	text-align:center;
 
 	
 }
@@ -274,7 +271,9 @@ text-align:center;
 
 .projetImg
 {
-	width:2%;
+	width:20%;
+	margin:0px 10px 10px 0;
+	border: 4px solid #FFF;
 }
 
 .projetImge
@@ -285,7 +284,7 @@ text-align:center;
 }
 h3
 {
-    font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+    	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
 	margin-bottom: 10px;
 	width:106%;
 	margin-left:-0%;
@@ -296,7 +295,7 @@ h3
 
 h4
 {
-    font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+   	 font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
 	margin-bottom: 10px;
 	text-decoration:underline;
 	padding:5px;
@@ -353,7 +352,7 @@ h4
 {
 	float:left;
 	width:60%;
-    font-family:Arial, Helvetica, sans-serif;
+    	font-family:Arial, Helvetica, sans-serif;
 	text-align:justify;
 	color:#f6f6f6;
 }
@@ -362,7 +361,7 @@ h4
 {
 	float:center;
 	width:60%;
-    font-family:Arial, Helvetica, sans-serif;
+    	font-family:Arial, Helvetica, sans-serif;
 	text-align:center;
 	color:#f6f6f6;
 }
@@ -416,6 +415,7 @@ h4
 	display:block;
 	clear:both;
 	height:auto;
+	width:50%;
 }
 
 .clear
@@ -424,7 +424,7 @@ h4
 }
 ul#gauche
 {
-clear:left;
+	clear:left;
 }
 
 .gauche
