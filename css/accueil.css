@@ -89,12 +89,10 @@ margin-right:25px;
 
 #contenue
 {
-	float:right;
 	display:block;
 	margin:auto;
-	padding:10px;
 	margin-bottom:0px;
-	width:50%;
+	width:100%;
 	padding-bottom:100px;
 }
 
@@ -418,6 +416,7 @@ h4
 	display:block;
 	clear:both;
 	height:auto;
+	width:50%;
 }
 
 .clear
